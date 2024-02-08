@@ -1,5 +1,4 @@
-# PRODIGY_SD_01
-<h1>Tempreature Conversion Program</h1>
+# Tempreature Conversion Program
 <h4>It is a simple program which asks the user to:
   <ul>
     <li>Enter the tempreature degree(numeric values only otherwise a warning message is shown "Numeric values only").</li>
